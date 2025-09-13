@@ -1,11 +1,12 @@
-<pre align="left"><code>███╗   ██╗ ██████╗  ██████╗ ██████╗ ██╗   ██╗██╗     
+```
+███╗   ██╗ ██████╗  ██████╗ ██████╗ ██╗   ██╗██╗     
 ████╗  ██║██╔═══██╗██╔═══██╗██╔══██╗██║   ██║██║     
 ██╔██╗ ██║██║   ██║██║   ██║██████╔╝██║   ██║██║     
 ██║╚██╗██║██║   ██║██║   ██║██╔══██╗██║   ██║██║     
 ██║ ╚████║╚██████╔╝╚██████╔╝██║  ██║╚██████╔╝███████╗
 ╚═╝  ╚═══╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝
 
-</code></pre>
+```
 
 <pre style="background:#0d1117;padding:12px 14px;border-radius:6px;line-height:1.25;overflow:auto;font-size:13px">
 <span style="color:#8b949e">🌐︎ : </span><a href="https://bitwa.re" style="color:#ffffff;text-decoration:none">https://bitwa.re</a>
